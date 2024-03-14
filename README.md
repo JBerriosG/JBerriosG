@@ -1,4 +1,4 @@
-### Hola, mi nombre es Jimmy Berríos Gallo 👋
+### Bienvenidos a mi repositorio 👋
 
 ![Banner (1)](https://github.com/JBerriosG/JBerriosG/assets/41551757/ec29566b-e6b1-47ae-8d7b-be375c77f568)
 
@@ -19,6 +19,23 @@ passions.add("Anime");
 
 JBerriosG.put("Technologies",technologies);
 JBerriosG.put("Passions",passions);
+log.info(gson.toJson(JBerriosG));
+```
+```Json
+{
+   "Technologies":[
+      "Web",
+      "GCP"
+   ],
+   "Passions":[
+      "Web development",
+      "Software development",
+      "VideoGames development",
+      "Martial Arts",
+      "VideoGames",
+      "Anime"
+   ]
+}
 ```
 
 <!--
