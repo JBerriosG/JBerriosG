@@ -7,8 +7,14 @@ HashMap<String, Object> JBerriosG = new HashMap<>;
 ArrayList<String> technologies = new ArrayList<String>;
 ArrayList<String> passions = new ArrayList<String>;
 
-technologies.add("Web");
-technologies.add("GCP");
+technologies.add("HTML5");
+technologies.add("CSS3");
+technologies.add("JavaScript");
+technologies.add("Java");
+technologies.add("SpringBoot");
+technologies.add("Google Cloud Platform");
+technologies.add("NodeJS");
+technologies.add("Angular");
 
 passions.add("Web development");
 passions.add("Software development");
@@ -24,8 +30,14 @@ log.info(gson.toJson(JBerriosG));
 ```Json
 {
    "Technologies":[
-      "Web",
-      "GCP"
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Java",
+      "SpringBoot",
+      "Google Cloud Platform",
+      "NodeJs",
+      "Angular"
    ],
    "Passions":[
       "Web development",
