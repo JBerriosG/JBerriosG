@@ -49,7 +49,14 @@ log.info(gson.toJson(JBerriosG));
    ]
 }
 ```
-[![JBerriosG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBerriosG&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<!--[![JBerriosG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBerriosG&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **JBerriosG/JBerriosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
